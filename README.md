@@ -6,3 +6,5 @@
 - 添加矢量图
 - 支持3D变形
 
+
+使用 框架 react-antd fabric.js
